@@ -6,7 +6,6 @@
 - decimals: `18`
 - icon:
 
-![DSD Logo](https://dsd.finance/logo.png)
 
 ## contracts
 ### mainnet
